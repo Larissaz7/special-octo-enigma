@@ -1,4 +1,4 @@
-fun main(args: Array<String>) {
+fun main() {
 
  fun getBirthday() : Int{
         print("\n Enter your birthday: ")
